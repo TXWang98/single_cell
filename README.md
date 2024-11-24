@@ -1,4 +1,4 @@
-##### Here we present the implementations of  CFAN and CGRAN.
+##### Official Implementations of ECAI 2023 paper 'Attention Based Models for Cell Type Classification on Single-Cell RNA-Seq Data'.
 
 - Both CFAN and CGRAN needs data preprocess first. The input are the data and labels we supply. You may select training set/validation set/test set at your will. model_CFAN.py, model_CGRAN.py and model_CGRAN_identification_of_markergenes.py are CFAN and CGRAN models.
 
